@@ -1,6 +1,6 @@
-#Games
+Games
 
-###Este repositório contém uma lista de jogos online para aprender Git de forma interativa e divertida. Explore os links e aprenda enquanto joga! 🎮💻
+Este repositório contém uma lista de jogos online para aprender Git de forma interativa e divertida. Explore os links e aprenda enquanto joga! 🎮💻
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
 - Um dos jogos mais populares e completos para aprender Git.
